@@ -3,7 +3,7 @@
 
 $sName = "localhost";
 $uName = "root";
-$pass = "27598018za";
+$pass = "";
 $db_name = "todolist";
 
 try {
